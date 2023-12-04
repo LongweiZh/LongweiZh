@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Longwei@LongweiZh
+- 👋 Hi, I’m Longwei @LongweiZh
 - 👀 I’m interested in neuronscience and bioinformatics.
 - 🌱 I’m currently learning python and R.
 - 📫 Email: lz539@georgetown.edu
